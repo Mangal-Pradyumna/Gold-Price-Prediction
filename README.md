@@ -1,4 +1,4 @@
-# Commodity Price Movement Prediction Project
+# Gold Price Prediction
 
 ## Project Overview
 This project focuses on processing large-scale financial time series data to extract actionable trends and generate forecasting indicators. It implements machine learning algorithms to predict commodity price movements and analyze market trends using historical financial data.
@@ -45,3 +45,4 @@ This project demonstrates how machine learning applied to financial time series 
 ---
 
 *For detailed implementation, refer to the project notebook and source code.*
+
